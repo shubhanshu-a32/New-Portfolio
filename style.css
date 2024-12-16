@@ -52,6 +52,7 @@ h2 {
 } 
 
 .second {
+    background-color: palevioletred;
     float:inline-start;
     border-radius: 50px;
     border: 12px solid black;
@@ -67,5 +68,5 @@ h2 {
 footer {
     display: both;
     text-align: center;
-    color:cadetblue;
+    color:white;
 }
